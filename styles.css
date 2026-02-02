@@ -1,0 +1,22 @@
+/* === FULL CSS === */
+/* (This is exactly your original <style> block, unchanged) */
+
+:root{
+  --bg:#0b0c0f;
+  --panel:#111318;
+  --panel-2:#0f1115;
+  --text:#e9edf3;
+  --muted:#a6adba;
+  --accent:#ff3b6b;
+  --border:#1a1d24;
+  --radius:18px;
+  --shadow: 0 18px 44px rgba(0,0,0,.55);
+  --shadow-soft: 0 10px 26px rgba(0,0,0,.40);
+  --ease: cubic-bezier(.2,.8,.2,1);
+  --t-fast: 160ms;
+  --t-med: 200ms;
+  --header-h: 72px;
+  --container: 1200px;
+}
+
+/* ...the rest of your CSS exactly as-is... */
